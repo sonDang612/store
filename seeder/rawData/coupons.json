@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "61af80bb5f7a0d3540559e30"
+  },
+  "name": "DISCOUNT",
+  "expiry": {
+    "$date": {
+      "$numberLong": "1682640000000"
+    }
+  },
+  "discount": 10,
+  "quantity": 15,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638891707395"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675265909841"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61af80bb5f7a0d3540559e31"
+  },
+  "name": "DISCOUNT3",
+  "expiry": {
+    "$date": {
+      "$numberLong": "1641859200000"
+    }
+  },
+  "discount": 13,
+  "quantity": 30,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638891707395"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1640689731789"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61af80bb5f7a0d3540559e33"
+  },
+  "name": "DISCOUNT5",
+  "expiry": {
+    "$date": {
+      "$numberLong": "1639755703630"
+    }
+  },
+  "discount": 15,
+  "quantity": 30,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638891707395"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1638891707395"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61af80bb5f7a0d3540559e32"
+  },
+  "name": "DISCOUNT4",
+  "expiry": {
+    "$date": {
+      "$numberLong": "1639755703630"
+    }
+  },
+  "discount": 14,
+  "quantity": 15,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638891707395"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1638891707395"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61af80bb5f7a0d3540559e2f"
+  },
+  "name": "DISCOUNT2",
+  "expiry": {
+    "$date": {
+      "$numberLong": "1645574400000"
+    }
+  },
+  "discount": 10,
+  "quantity": 48,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638891707395"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1642824493008"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61af9f909e2a4c22ce0a0d61"
+  },
+  "name": "DISCOUNT6",
+  "expiry": {
+    "$date": {
+      "$numberLong": "1643587200000"
+    }
+  },
+  "discount": 20,
+  "quantity": 22,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638899600762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1640689761130"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d6604277e76c187a587e7d"
+  },
+  "name": "SALECUOINAM",
+  "expiry": {
+    "$date": {
+      "$numberLong": "1688083200000"
+    }
+  },
+  "discount": 50,
+  "quantity": 20,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1641439298100"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675361975831"
+    }
+  },
+  "__v": 0
+}]

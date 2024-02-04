@@ -1,0 +1,388 @@
+[{
+  "_id": {
+    "$oid": "61af80b95f7a0d3540559dee"
+  },
+  "role": "admin",
+  "phone": "0734554393",
+  "gender": "male",
+  "dob": {
+    "$date": {
+      "$numberLong": "946684800000"
+    }
+  },
+  "active": true,
+  "name": "Admin",
+  "email": "admin@example.com",
+  "password": "$2a$10$UFzkGhd69qP75AHEa5fD5OSzq0itdjFX5CPqLM9dkfPpv9gXSdG4C",
+  "addressList": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638891705830"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1638891705830"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "role": "user",
+  "phone": "0934563234",
+  "gender": "male",
+  "dob": {
+    "$date": {
+      "$numberLong": "961434000000"
+    }
+  },
+  "active": true,
+  "name": "Ngô Minh Thành",
+  "email": "nmth206@gmail.com",
+  "password": "$2a$10$hz.vPa79ShU5nVFSeQWwEejWvadU42kQP1SkubeVv6wQknb8OEL9K",
+  "addressList": [
+    {
+      "name": "Ngô Minh Thành",
+      "phone": "0738485890",
+      "city": "Hồ Chí Minh",
+      "district": "Thành Phố Thủ Đức",
+      "ward": "Phường Trường Thọ",
+      "address": "26a",
+      "_id": {
+        "$oid": "63d7e8f9a341f6aae67e9f49"
+      }
+    },
+    {
+      "name": "Ngô Minh Thành",
+      "phone": "0323232323",
+      "city": "Bà Rịa - Vũng Tàu",
+      "district": "Huyện Châu Đức",
+      "ward": "Xã Bàu Chinh",
+      "address": "22a",
+      "_id": {
+        "$oid": "63d92ba8588eb92252abbab7"
+      }
+    }
+  ],
+  "__v": 3,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638891705831"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676691723337"
+    }
+  },
+  "passwordChangedAt": {
+    "$date": {
+      "$numberLong": "1675094224092"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61af80b95f7a0d3540559df0"
+  },
+  "role": "user",
+  "phone": "0332313233",
+  "gender": "male",
+  "dob": {
+    "$date": {
+      "$numberLong": "946684800000"
+    }
+  },
+  "active": true,
+  "name": "cu tre",
+  "email": "cutre@example.com",
+  "password": "$2a$10$hz.vPa79ShU5nVFSeQWwEejWvadU42kQP1SkubeVv6wQknb8OEL9K",
+  "addressList": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638891705831"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676693522898"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61b00ada6d5337b639af0fa8"
+  },
+  "email": "hoangngochuyen@gmail.com",
+  "password": "$2a$10$hz.vPa79ShU5nVFSeQWwEejWvadU42kQP1SkubeVv6wQknb8OEL9K",
+  "role": "user",
+  "phone": "",
+  "gender": "male",
+  "dob": {
+    "$date": {
+      "$numberLong": "946659600000"
+    }
+  },
+  "active": true,
+  "name": "Huyền Ngọc",
+  "addressList": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638927066410"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676693525979"
+    }
+  },
+  "__v": 0,
+  "passwordChangedAt": {
+    "$date": {
+      "$numberLong": "1638927134896"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61b6da0537850cfd98385a6f"
+  },
+  "email": "nmth2006@gmail.com",
+  "password": "$2a$10$nrp5CdaLiw9admTxjnz2zO4N23OaVCufxurf/zNricZYmonIoAb4G",
+  "role": "user",
+  "phone": "",
+  "gender": "male",
+  "dob": {
+    "$date": {
+      "$numberLong": "946659600000"
+    }
+  },
+  "active": true,
+  "name": "Ngô Minh Thành",
+  "addressList": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1639373317292"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676693524474"
+    }
+  },
+  "__v": 0,
+  "passwordChangedAt": {
+    "$date": {
+      "$numberLong": "1675177906378"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61c0af9f5099de0ea46fc974"
+  },
+  "email": "sonhoangdang0612@gmail.com",
+  "password": "$2a$10$hz.vPa79ShU5nVFSeQWwEejWvadU42kQP1SkubeVv6wQknb8OEL9K",
+  "role": "user",
+  "phone": "",
+  "gender": "male",
+  "dob": {
+    "$date": {
+      "$numberLong": "946659600000"
+    }
+  },
+  "active": true,
+  "name": "Sơn Đặng",
+  "addressList": [
+    {
+      "name": "Sơn Đặng",
+      "phone": "0354335099",
+      "city": "Hồ Chí Minh",
+      "district": "Thành Phố Thủ Đức",
+      "ward": "Phường Bình Thọ",
+      "address": "23 khu phố 1",
+      "_id": {
+        "$oid": "63e85f0b5b6ba93999b214c9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1640017823684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676693527476"
+    }
+  },
+  "__v": 0,
+  "passwordChangedAt": {
+    "$date": {
+      "$numberLong": "1642817003425"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61c8a5d1a91c8434212a2bd8"
+  },
+  "email": "trangtran@gmail.com",
+  "password": "$2a$10$hz.vPa79ShU5nVFSeQWwEejWvadU42kQP1SkubeVv6wQknb8OEL9K",
+  "role": "user",
+  "phone": "",
+  "gender": "male",
+  "dob": {
+    "$date": {
+      "$numberLong": "946684800000"
+    }
+  },
+  "active": true,
+  "name": "Trang Trần",
+  "addressList": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1640539601932"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676693528843"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c937edc8f7d7ccc2f0e331"
+  },
+  "email": "ngochuyen@gmail.com",
+  "password": "$2a$10$hz.vPa79ShU5nVFSeQWwEejWvadU42kQP1SkubeVv6wQknb8OEL9K",
+  "role": "user",
+  "phone": "",
+  "gender": "male",
+  "dob": {
+    "$date": {
+      "$numberLong": "946684800000"
+    }
+  },
+  "active": true,
+  "name": "Huyền Ngọc",
+  "addressList": [
+    {
+      "name": "Huyền Ngọc",
+      "phone": "0123456789",
+      "city": "Bà Rịa - Vũng Tàu",
+      "district": "Huyện Châu Đức",
+      "ward": "Thị trấn Ngãi Giao",
+      "address": "Cần Dược",
+      "_id": {
+        "$oid": "63d88eb9c27f4bcc6577b936"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1640577005769"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675136697245"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61eb81d3227dca7d3dbda57e"
+  },
+  "email": "hainam@gmail.com",
+  "password": "$2a$10$hz.vPa79ShU5nVFSeQWwEejWvadU42kQP1SkubeVv6wQknb8OEL9K",
+  "role": "user",
+  "phone": "0234234331",
+  "gender": "male",
+  "dob": {
+    "$date": {
+      "$numberLong": "946684800000"
+    }
+  },
+  "active": true,
+  "name": "Hải Nam",
+  "addressList": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1642824147966"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676693530151"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620e6aeb66255a36eb261382"
+  },
+  "email": "dotranghuyen@gmail.com",
+  "password": "$2a$10$hz.vPa79ShU5nVFSeQWwEejWvadU42kQP1SkubeVv6wQknb8OEL9K",
+  "role": "user",
+  "phone": "",
+  "gender": "male",
+  "dob": {
+    "$date": {
+      "$numberLong": "946684800000"
+    }
+  },
+  "active": true,
+  "name": "Đỗ Trang",
+  "addressList": [
+    {
+      "name": "Đỗ Trang",
+      "phone": "0919919950",
+      "city": "Bà Rịa - Vũng Tàu",
+      "district": "Thành phố Vũng Tàu",
+      "ward": "Phường 10",
+      "address": "cần dước",
+      "_id": {
+        "$oid": "63e861535b6ba93999b21610"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1645112043352"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676173651567"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231c086dd819f3a64705dde"
+  },
+  "email": "ducthang@gmail.com",
+  "password": "$2a$10$hz.vPa79ShU5nVFSeQWwEejWvadU42kQP1SkubeVv6wQknb8OEL9K",
+  "role": "user",
+  "phone": "",
+  "gender": "male",
+  "dob": {
+    "$date": {
+      "$numberLong": "946684800000"
+    }
+  },
+  "active": true,
+  "name": "Đức Thắng",
+  "addressList": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647427718082"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676693531554"
+    }
+  },
+  "__v": 0
+}]

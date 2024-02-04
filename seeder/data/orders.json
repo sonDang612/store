@@ -1,0 +1,1661 @@
+[
+  {
+    "_id": "61af9eb29d0cf10c843f101e",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Beats solo3 wireless headphones",
+        "quantity": 1,
+        "image": "/images/accessories/beats-solo3-wireless-headphones-1.jpg",
+        "price": 185.99,
+        "product": "61af80ba5f7a0d3540559df3",
+        "commented": false,
+        "_id": "61af9eb29d0cf10c843f101f"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "Stripe Card",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "pi_3K47nIBQxomxIO4F1ok54KAh",
+      "status": "succeeded",
+      "created": "2021-12-07T17:49:36.000Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 185.99,
+    "shippingPrice": 1.86,
+    "discountPrice": 10,
+    "total": 177.85,
+    "status": "Getting Product",
+    "statusTime": [
+      "2021-12-07T17:56:04.356Z",
+      "2021-12-07T17:52:32.280Z",
+      "2021-12-07T17:49:38.347Z"
+    ],
+    "createdAt": "2021-12-07T17:49:38.352Z",
+    "updatedAt": "2021-12-07T17:56:04.357Z",
+    "__v": 0
+  },
+  {
+    "_id": "61af9ed777ae011e5047e194",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Electronic Kitchen Scale 5kg Electronic Kitchen Scale",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/1.jpg",
+        "price": 89,
+        "product": "61af80ba5f7a0d3540559df8",
+        "commented": false,
+        "_id": "61af9ed777ae011e5047e195"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "zaloPay",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "211208_333122",
+      "status": "success",
+      "created": "2021-12-07T17:49:49.794Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 89,
+    "shippingPrice": 0.89,
+    "discountPrice": 0,
+    "total": 89.89,
+    "status": "Getting Product",
+    "statusTime": [
+      "2021-12-07T17:56:16.723Z",
+      "2021-12-07T17:52:45.665Z",
+      "2021-12-07T17:50:15.161Z"
+    ],
+    "createdAt": "2021-12-07T17:50:15.172Z",
+    "updatedAt": "2021-12-07T17:56:16.723Z",
+    "__v": 0
+  },
+  {
+    "_id": "61af9f399e2a4c22ce0a0d3a",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Beurer KS25 Digital Kitchen Scales",
+        "quantity": 2,
+        "image": "/images/kitchen-appliances/3.jpg",
+        "price": 39.99,
+        "product": "61af80ba5f7a0d3540559dfc",
+        "commented": false,
+        "_id": "61af9f399e2a4c22ce0a0d3b"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "MoMo",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "MOMO1638899484506",
+      "status": "success",
+      "created": "2021-12-07T17:51:28.463Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 79.98,
+    "shippingPrice": 0.8,
+    "discountPrice": 0,
+    "total": 80.78,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-07T17:51:53.853Z"],
+    "createdAt": "2021-12-07T17:51:53.862Z",
+    "updatedAt": "2021-12-07T17:51:53.862Z",
+    "__v": 0
+  },
+  {
+    "_id": "61afa49edb773acade527e8b",
+    "user": "61af80b95f7a0d3540559df0",
+    "orderItems": [
+      {
+        "name": "Laptop Apple Macbook Air Retina MREE2LL/A VN/A",
+        "quantity": 1,
+        "image": "/images/laptops/8.jpg",
+        "price": 648.99,
+        "product": "61af80ba5f7a0d3540559df2",
+        "commented": true,
+        "_id": "61afa49edb773acade527e8c"
+      }
+    ],
+    "address": "22/4 , Phường Bến Thành , Quận 1 , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0234567893",
+    "paymentResult": {
+      "receipt_email": "cutre@example.com",
+      "receipt_name": "cu tre"
+    },
+    "totalPrice": 648.99,
+    "shippingPrice": 6.49,
+    "discountPrice": 0,
+    "total": 655.48,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-07T18:14:54.484Z"],
+    "createdAt": "2021-12-07T18:14:54.488Z",
+    "updatedAt": "2021-12-07T18:19:06.036Z",
+    "__v": 0
+  },
+  {
+    "_id": "61afa4e114710cd76dc85930",
+    "user": "61af80b95f7a0d3540559df0",
+    "orderItems": [
+      {
+        "name": "Philips HD9339/81 Super Speed ​​Kettle – Imported From Germany",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/8.jpg",
+        "price": 39.99,
+        "product": "61af80ba5f7a0d3540559e0d",
+        "commented": false,
+        "_id": "61afa4e114710cd76dc85931"
+      }
+    ],
+    "address": "22/4 , Phường Bến Thành , Quận 1 , Hồ Chí Minh",
+    "paymentMethod": "paypal",
+    "phone": "0234567893",
+    "paymentResult": {
+      "id": "93E675261U6309333",
+      "status": "COMPLETED",
+      "created": "2021-12-07T18:16:00.000Z",
+      "receipt_email": "cutre@example.com",
+      "receipt_name": "cu tre"
+    },
+    "totalPrice": 39.99,
+    "shippingPrice": 0.4,
+    "discountPrice": 0,
+    "total": 40.39,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-07T18:16:01.658Z"],
+    "createdAt": "2021-12-07T18:16:01.663Z",
+    "updatedAt": "2021-12-07T18:16:01.663Z",
+    "__v": 0
+  },
+  {
+    "_id": "61afa517db773acade527eba",
+    "user": "61af80b95f7a0d3540559df0",
+    "orderItems": [
+      {
+        "name": "Laptop Asus D409DA-EK095T",
+        "quantity": 1,
+        "image": "/images/laptops/3.jpg",
+        "price": 399,
+        "product": "61af80ba5f7a0d3540559df9",
+        "commented": true,
+        "_id": "61afa517db773acade527ebb"
+      }
+    ],
+    "address": "22/4 , Phường Bến Thành , Quận 1 , Hồ Chí Minh",
+    "paymentMethod": "Stripe Card",
+    "phone": "0234567893",
+    "paymentResult": {
+      "id": "pi_3K48DhBQxomxIO4F2ig2nIfM",
+      "status": "succeeded",
+      "created": "2021-12-07T18:16:53.000Z",
+      "receipt_email": "cutre@example.com",
+      "receipt_name": "cu tre"
+    },
+    "totalPrice": 399,
+    "shippingPrice": 3.99,
+    "discountPrice": 0,
+    "total": 402.99,
+    "status": "Getting Product",
+    "statusTime": [
+      "2021-12-08T01:29:19.891Z",
+      "2021-12-07T18:18:14.508Z",
+      "2021-12-07T18:16:55.025Z"
+    ],
+    "createdAt": "2021-12-07T18:16:55.029Z",
+    "updatedAt": "2021-12-08T01:29:19.892Z",
+    "__v": 0
+  },
+  {
+    "_id": "61afa54bdb773acade527eeb",
+    "user": "61af80b95f7a0d3540559df0",
+    "orderItems": [
+      {
+        "name": "WMF Lono Tischgrill Flach & Gerippt . Electric Grill",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/10.jpg",
+        "price": 49.95,
+        "product": "61af80ba5f7a0d3540559e12",
+        "commented": true,
+        "_id": "61afa54bdb773acade527eec"
+      }
+    ],
+    "address": "22/4 , Phường Bến Thành , Quận 1 , Hồ Chí Minh",
+    "paymentMethod": "MoMo",
+    "phone": "0234567893",
+    "paymentResult": {
+      "id": "MOMO1638901044104",
+      "status": "success",
+      "created": "2021-12-07T18:17:21.858Z",
+      "receipt_email": "cutre@example.com",
+      "receipt_name": "cu tre"
+    },
+    "totalPrice": 49.95,
+    "shippingPrice": 0.5,
+    "discountPrice": 0,
+    "total": 50.45,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-07T18:17:47.234Z"],
+    "createdAt": "2021-12-07T18:17:47.237Z",
+    "updatedAt": "2021-12-07T18:18:37.884Z",
+    "__v": 0
+  },
+  {
+    "_id": "61b00f953218474e2876a7c8",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Beats solo3 wireless headphones",
+        "quantity": 1,
+        "image": "/images/accessories/beats-solo3-wireless-headphones-1.jpg",
+        "price": 185.99,
+        "product": "61af80ba5f7a0d3540559df3",
+        "commented": true,
+        "_id": "61b00f953218474e2876a7c9"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0123456789",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 185.99,
+    "shippingPrice": 1.86,
+    "discountPrice": 0,
+    "total": 187.85,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-08T01:51:17.577Z"],
+    "createdAt": "2021-12-08T01:51:17.582Z",
+    "updatedAt": "2021-12-08T01:52:50.102Z",
+    "__v": 0
+  },
+  {
+    "_id": "61b07adf818c8f59290db35c",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Electronic Kitchen Scale 5kg Electronic Kitchen Scale",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/1.jpg",
+        "price": 89,
+        "product": "61af80ba5f7a0d3540559df8",
+        "commented": false,
+        "_id": "61b07adf818c8f59290db35d"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0123456789",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 89,
+    "shippingPrice": 0.89,
+    "discountPrice": 0,
+    "total": 89.89,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-08T09:29:03.453Z"],
+    "createdAt": "2021-12-08T09:29:03.459Z",
+    "updatedAt": "2021-12-08T09:29:03.459Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c6f8f71e0dae5c123f9fed",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Beurer KS25 Digital Kitchen Scales",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/3.jpg",
+        "price": 39.99,
+        "product": "61af80ba5f7a0d3540559dfc",
+        "commented": false,
+        "_id": "61c6f8f71e0dae5c123f9fee"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0123456789",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 39.99,
+    "shippingPrice": 0.4,
+    "discountPrice": 0,
+    "total": 40.39,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-25T10:56:55.829Z"],
+    "createdAt": "2021-12-25T10:56:55.838Z",
+    "updatedAt": "2021-12-25T10:56:55.838Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c6f8f7602a20b43639d625",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Beurer KS25 Digital Kitchen Scales",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/3.jpg",
+        "price": 39.99,
+        "product": "61af80ba5f7a0d3540559dfc",
+        "commented": true,
+        "_id": "61c6f8f7602a20b43639d626"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0123456789",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 39.99,
+    "shippingPrice": 0.4,
+    "discountPrice": 0,
+    "total": 40.39,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-25T10:56:55.934Z"],
+    "createdAt": "2021-12-25T10:56:55.952Z",
+    "updatedAt": "2021-12-28T07:56:22.529Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c7165765af4cd43864a49b",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Laptop Apple Macbook Air Retina MREE2LL/A VN/A",
+        "quantity": 1,
+        "image": "/images/laptops/8.jpg",
+        "price": 648.99,
+        "product": "61af80ba5f7a0d3540559df2",
+        "commented": false,
+        "_id": "61c7165765af4cd43864a49c"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0123456789",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 648.99,
+    "shippingPrice": 6.49,
+    "discountPrice": 0,
+    "total": 655.48,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-25T13:02:15.273Z"],
+    "createdAt": "2021-12-25T13:02:15.289Z",
+    "updatedAt": "2021-12-25T13:02:15.289Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c7249ff3f95da35ebf4441",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Beats solo3 wireless headphones",
+        "quantity": 2,
+        "image": "/images/accessories/beats-solo3-wireless-headphones-1.jpg",
+        "price": 185.99,
+        "product": "61af80ba5f7a0d3540559df3",
+        "commented": false,
+        "_id": "61c7249ff3f95da35ebf4442"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "zaloPay",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "211225_859128",
+      "status": "success",
+      "created": "2021-12-25T14:03:11.553Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 371.98,
+    "shippingPrice": 3.72,
+    "discountPrice": 0,
+    "total": 375.7,
+    "status": "Shop Received",
+    "statusTime": ["2021-12-25T15:02:34.824Z", "2021-12-25T14:03:11.950Z"],
+    "createdAt": "2021-12-25T14:03:11.968Z",
+    "updatedAt": "2021-12-25T15:02:34.824Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c72b64de37f79efa564237",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Laptop Apple Macbook Air Retina MREE2LL/A VN/A",
+        "quantity": 1,
+        "image": "/images/laptops/8.jpg",
+        "price": 648.99,
+        "product": "61af80ba5f7a0d3540559df2",
+        "commented": true,
+        "_id": "61c72b64de37f79efa564238"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "zaloPay",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "211225_859128",
+      "status": "success",
+      "created": "2021-12-25T14:32:03.999Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 648.99,
+    "shippingPrice": 6.49,
+    "discountPrice": 0,
+    "total": 655.48,
+    "status": "Delivered",
+    "statusTime": [
+      "2021-12-28T10:59:45.264Z",
+      "2021-12-28T10:59:41.533Z",
+      "2021-12-28T10:59:36.955Z",
+      "2021-12-28T10:59:32.385Z",
+      "2021-12-28T10:59:28.431Z",
+      "2021-12-28T10:59:21.278Z",
+      "2021-12-25T14:32:04.325Z"
+    ],
+    "createdAt": "2021-12-25T14:32:04.343Z",
+    "updatedAt": "2021-12-28T11:00:33.876Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c72c5044347499811735c2",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Philips HD9339/81 Super Speed ​​Kettle – Imported From Germany",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/8.jpg",
+        "price": 39.99,
+        "product": "61af80ba5f7a0d3540559e0d",
+        "commented": false,
+        "_id": "61c72c5044347499811735c3"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "paypal",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "5HB2660381387702G",
+      "status": "COMPLETED",
+      "created": "2021-12-25T14:35:59.000Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 39.99,
+    "shippingPrice": 0.4,
+    "discountPrice": 0,
+    "total": 40.39,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-25T14:36:00.905Z"],
+    "createdAt": "2021-12-25T14:36:00.910Z",
+    "updatedAt": "2021-12-25T14:36:00.910Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c72d629f7a6cb364f2cd19",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Beats solo3 wireless headphones",
+        "quantity": 1,
+        "image": "/images/accessories/beats-solo3-wireless-headphones-1.jpg",
+        "price": 185.99,
+        "product": "61af80ba5f7a0d3540559df3",
+        "commented": true,
+        "_id": "61c72d629f7a6cb364f2cd1a"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "Stripe Card",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "pi_3KAbQDBQxomxIO4F2UZ1jzYS",
+      "status": "succeeded",
+      "created": "2021-12-25T14:40:33.000Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 185.99,
+    "shippingPrice": 1.86,
+    "discountPrice": 0,
+    "total": 187.85,
+    "status": "Delivered",
+    "statusTime": [
+      "2021-12-28T10:58:36.962Z",
+      "2021-12-28T10:58:07.727Z",
+      "2021-12-28T10:58:03.221Z",
+      "2021-12-28T10:57:55.766Z",
+      "2021-12-28T10:57:50.965Z",
+      "2021-12-25T15:03:30.974Z",
+      "2021-12-25T14:40:34.882Z"
+    ],
+    "createdAt": "2021-12-25T14:40:34.888Z",
+    "updatedAt": "2021-12-28T10:58:36.962Z",
+    "__v": 0
+  },
+  {
+    "_id": "61caf000781a1b9a4860d472",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Beurer KS25 Digital Kitchen Scales",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/3.jpg",
+        "price": 39.99,
+        "product": "61af80ba5f7a0d3540559dfc",
+        "commented": false,
+        "_id": "61caf000781a1b9a4860d473"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "MoMo",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "MOMO1640689622195",
+      "status": "success",
+      "created": "2021-12-28T11:07:33.959Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 39.99,
+    "shippingPrice": 0.4,
+    "discountPrice": 0,
+    "total": 40.39,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-28T11:07:44.630Z"],
+    "createdAt": "2021-12-28T11:07:44.639Z",
+    "updatedAt": "2021-12-28T11:07:44.639Z",
+    "__v": 0
+  },
+  {
+    "_id": "61caf23003d117c00523b398",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "iPhone 11 Pro Max 64GB GOLD GRAY SILVER",
+        "quantity": 1,
+        "image": "/images/smartphones/9.jpg",
+        "price": 108,
+        "product": "61af80ba5f7a0d3540559dfa",
+        "commented": false,
+        "_id": "61caf23003d117c00523b399"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0123456789",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 108,
+    "shippingPrice": 1.08,
+    "discountPrice": 0,
+    "total": 109.08,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-28T11:17:04.629Z"],
+    "createdAt": "2021-12-28T11:17:04.635Z",
+    "updatedAt": "2021-12-28T11:17:04.635Z",
+    "__v": 0
+  },
+  {
+    "_id": "61cc04988ca81136a5ef16f5",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "WMF Lono Tischgrill Flach & Gerippt . Electric Grill",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/10.jpg",
+        "price": 49.95,
+        "product": "61af80ba5f7a0d3540559e12",
+        "commented": true,
+        "_id": "61cc04988ca81136a5ef16f6"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "zaloPay",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "211229_338468",
+      "status": "success",
+      "created": "2021-12-29T06:47:52.653Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 49.95,
+    "shippingPrice": 0.5,
+    "discountPrice": 10,
+    "total": 40.45,
+    "status": "Ordered Successfully",
+    "statusTime": ["2021-12-29T06:47:52.842Z"],
+    "createdAt": "2021-12-29T06:47:52.849Z",
+    "updatedAt": "2022-01-14T04:21:00.962Z",
+    "__v": 0
+  },
+  {
+    "_id": "61e0f4f115dbfee454cc29f5",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Electronic Kitchen Scale 5kg Electronic Kitchen Scale",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/1.jpg",
+        "price": 89,
+        "product": "61af80ba5f7a0d3540559df8",
+        "commented": false,
+        "_id": "61e0f4f115dbfee454cc29f6"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0123456789",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 89,
+    "shippingPrice": 0.89,
+    "discountPrice": 0,
+    "total": 89.89,
+    "status": "Cancelled",
+    "statusTime": ["2022-01-14T04:15:06.200Z", "2022-01-14T03:58:41.304Z"],
+    "createdAt": "2022-01-14T03:58:41.326Z",
+    "updatedAt": "2022-01-14T04:15:06.208Z",
+    "__v": 1
+  },
+  {
+    "_id": "61e179f37bf2ceb9122aae3e",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Beurer KS25 Digital Kitchen Scales",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/3.jpg",
+        "price": 39.99,
+        "product": "61af80ba5f7a0d3540559dfc",
+        "commented": false,
+        "_id": "61e179f37bf2ceb9122aae3f"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0123456789",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 39.99,
+    "shippingPrice": 0.4,
+    "discountPrice": 0,
+    "total": 40.39,
+    "status": "Ordered Successfully",
+    "statusTime": ["2022-01-14T13:26:11.756Z"],
+    "createdAt": "2022-01-14T13:26:11.764Z",
+    "updatedAt": "2022-01-14T13:26:11.764Z",
+    "__v": 0
+  },
+  {
+    "_id": "61e17b3b7bf2ceb9122aaeec",
+    "user": "61c0af9f5099de0ea46fc974",
+    "orderItems": [
+      {
+        "name": "Beurer KS25 Digital Kitchen Scales",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/3.jpg",
+        "price": 39.99,
+        "product": "61af80ba5f7a0d3540559dfc",
+        "commented": true,
+        "_id": "61e17b3b7bf2ceb9122aaeed"
+      }
+    ],
+    "address": "22/4 , Xã Quốc Tuấn , Huyện An Dương , Hải Phòng",
+    "paymentMethod": "paypal",
+    "phone": "0233234234",
+    "paymentResult": {
+      "id": "91Y60655K52778233",
+      "status": "COMPLETED",
+      "created": "2022-01-14T13:31:38.000Z",
+      "receipt_email": "sonhoangdang0612@gmail.com",
+      "receipt_name": "Sơn"
+    },
+    "totalPrice": 39.99,
+    "shippingPrice": 0.4,
+    "discountPrice": 10,
+    "total": 30.39,
+    "status": "Ordered Successfully",
+    "statusTime": ["2022-01-14T13:31:39.856Z"],
+    "createdAt": "2022-01-14T13:31:39.865Z",
+    "updatedAt": "2022-01-14T13:33:07.595Z",
+    "__v": 0
+  },
+  {
+    "_id": "61e18130a29a1b47138394c1",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Brita Marella Cool 2.4L Blue Water Filter Bottle",
+        "quantity": 2,
+        "image": "/images/kitchen-appliances/5.jpg",
+        "price": 180,
+        "product": "61af80ba5f7a0d3540559e1c",
+        "commented": false,
+        "_id": "61e18130a29a1b47138394c2"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "Stripe Card",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "pi_3KHqH4BQxomxIO4F0J5g5H08",
+      "status": "succeeded",
+      "created": "2022-01-14T13:57:02.000Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 360,
+    "shippingPrice": 3.6,
+    "discountPrice": 0,
+    "total": 363.6,
+    "status": "Packing",
+    "statusTime": [
+      "2022-01-18T09:10:41.054Z",
+      "2022-01-18T09:10:33.816Z",
+      "2022-01-18T09:10:28.321Z",
+      "2022-01-14T13:57:04.466Z"
+    ],
+    "createdAt": "2022-01-14T13:57:04.473Z",
+    "updatedAt": "2022-01-18T09:10:41.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "61e1a13b0d8876a2fc03b7db",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "PlayStation 4",
+        "quantity": 2,
+        "image": "/images/accessories/PlayStation-4-1.jpg",
+        "price": 14.1,
+        "product": "61af80ba5f7a0d3540559e1d",
+        "commented": false,
+        "_id": "61e1a13b0d8876a2fc03b7dc"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "zaloPay",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "220114_98037",
+      "status": "success",
+      "created": "2022-01-14T16:13:47.284Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 28.2,
+    "shippingPrice": 0.28,
+    "discountPrice": 10,
+    "total": 18.48,
+    "status": "Shop Received",
+    "statusTime": ["2022-01-20T17:23:15.532Z", "2022-01-14T16:13:47.528Z"],
+    "createdAt": "2022-01-14T16:13:47.534Z",
+    "updatedAt": "2022-01-20T17:23:15.532Z",
+    "__v": 0
+  },
+  {
+    "_id": "61e1a1da0d8876a2fc03b847",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Xbox Wireless Controller",
+        "quantity": 1,
+        "image": "/images/accessories/Xbox-Wireless-Controller-1.jpg",
+        "price": 89,
+        "product": "61af80ba5f7a0d3540559e20",
+        "commented": false,
+        "_id": "61e1a1da0d8876a2fc03b848"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "MoMo",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "MOMO1642176956701",
+      "status": "success",
+      "created": "2022-01-14T16:16:26.106Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 89,
+    "shippingPrice": 0.89,
+    "discountPrice": 0,
+    "total": 89.89,
+    "status": "Getting Product",
+    "statusTime": [
+      "2022-01-20T17:23:03.176Z",
+      "2022-01-18T09:10:19.192Z",
+      "2022-01-14T16:16:26.328Z"
+    ],
+    "createdAt": "2022-01-14T16:16:26.332Z",
+    "updatedAt": "2022-01-20T17:23:03.176Z",
+    "__v": 0
+  },
+  {
+    "_id": "61e65a56370d36183cb5ac54",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Beats solo3 wireless headphones",
+        "quantity": 1,
+        "image": "/images/accessories/beats-solo3-wireless-headphones-1.jpg",
+        "price": 185.99,
+        "product": "61af80ba5f7a0d3540559df3",
+        "commented": false,
+        "_id": "61e65a56370d36183cb5ac55"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "zaloPay",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "220118_555110",
+      "status": "success",
+      "created": "2022-01-18T06:12:37.098Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 185.99,
+    "shippingPrice": 1.86,
+    "discountPrice": 0,
+    "total": 187.85,
+    "status": "Ordered Successfully",
+    "statusTime": ["2022-01-18T06:12:38.509Z"],
+    "createdAt": "2022-01-18T06:12:38.528Z",
+    "updatedAt": "2022-01-18T06:12:38.528Z",
+    "__v": 0
+  },
+  {
+    "_id": "61e683382e9c89e696a1fa7d",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "PlayStation 4",
+        "quantity": 1,
+        "image": "/images/accessories/PlayStation-4-1.jpg",
+        "price": 14.1,
+        "product": "61af80ba5f7a0d3540559e1d",
+        "commented": true,
+        "_id": "61e683382e9c89e696a1fa7e"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "MoMo",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "MOMO1642496794255",
+      "status": "success",
+      "created": "2022-01-18T09:07:03.854Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 14.1,
+    "shippingPrice": 0.14,
+    "discountPrice": 0,
+    "total": 14.24,
+    "status": "Delivered",
+    "statusTime": [
+      "2022-01-18T09:10:11.781Z",
+      "2022-01-18T09:10:05.458Z",
+      "2022-01-18T09:09:59.387Z",
+      "2022-01-18T09:09:51.863Z",
+      "2022-01-18T09:09:45.336Z",
+      "2022-01-18T09:09:38.736Z",
+      "2022-01-18T09:07:04.357Z"
+    ],
+    "createdAt": "2022-01-18T09:07:04.364Z",
+    "updatedAt": "2022-01-22T04:10:56.056Z",
+    "__v": 0
+  },
+  {
+    "_id": "61e6cd7eeba3e954afd125d5",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Beats solo3 wireless headphones",
+        "quantity": 1,
+        "image": "/images/accessories/beats-solo3-wireless-headphones-1.jpg",
+        "price": 185.99,
+        "product": "61af80ba5f7a0d3540559df3",
+        "commented": true,
+        "_id": "61e6cd7eeba3e954afd125d6"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "Stripe Card",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "pi_3KJIbIBQxomxIO4F0BHD3NOX",
+      "status": "succeeded",
+      "created": "2022-01-18T14:23:56.000Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 185.99,
+    "shippingPrice": 1.86,
+    "discountPrice": 0,
+    "total": 187.85,
+    "status": "Packing",
+    "statusTime": [
+      "2022-01-21T17:49:53.226Z",
+      "2022-01-21T16:26:53.379Z",
+      "2022-01-20T17:22:58.549Z",
+      "2022-01-18T14:23:58.347Z"
+    ],
+    "createdAt": "2022-01-18T14:23:58.366Z",
+    "updatedAt": "2022-01-21T17:49:53.227Z",
+    "__v": 0
+  },
+  {
+    "_id": "61eade78845491e740e376f9",
+    "user": "61c0af9f5099de0ea46fc974",
+    "orderItems": [
+      {
+        "name": "PlayStation 4",
+        "quantity": 1,
+        "image": "/images/accessories/PlayStation-4-1.jpg",
+        "price": 14.1,
+        "product": "61af80ba5f7a0d3540559e1d",
+        "commented": true,
+        "_id": "61eade78845491e740e376fa"
+      }
+    ],
+    "address": "22/4 , Xã Quốc Tuấn , Huyện An Dương , Hải Phòng",
+    "paymentMethod": "cash",
+    "phone": "0233234234",
+    "paymentResult": {
+      "receipt_email": "sonhoangdang0612@gmail.com",
+      "receipt_name": "Sơn"
+    },
+    "totalPrice": 14.1,
+    "shippingPrice": 0.14,
+    "discountPrice": 0,
+    "total": 14.24,
+    "status": "Shop Received",
+    "statusTime": ["2022-02-12T14:49:12.121Z", "2022-01-21T16:25:28.647Z"],
+    "createdAt": "2022-01-21T16:25:28.655Z",
+    "updatedAt": "2022-02-12T14:49:12.121Z",
+    "__v": 0
+  },
+  {
+    "_id": "61eadfdd845491e740e377ab",
+    "user": "61c0af9f5099de0ea46fc974",
+    "orderItems": [
+      {
+        "name": "Samsung Galaxy Note 10 Plus 5G 512GB",
+        "quantity": 2,
+        "image": "/images/smartphones/8.jpg",
+        "price": 47.49,
+        "product": "61af80ba5f7a0d3540559df4",
+        "commented": true,
+        "_id": "61eadfdd845491e740e377ac"
+      }
+    ],
+    "address": "22/4 , Xã Quốc Tuấn , Huyện An Dương , Hải Phòng",
+    "paymentMethod": "cash",
+    "phone": "0233234234",
+    "paymentResult": {
+      "receipt_email": "sonhoangdang0612@gmail.com",
+      "receipt_name": "Sơn"
+    },
+    "totalPrice": 94.98,
+    "shippingPrice": 0.95,
+    "discountPrice": 10,
+    "total": 85.93,
+    "status": "Getting Product",
+    "statusTime": [
+      "2022-02-17T16:13:49.117Z",
+      "2022-01-21T17:29:11.129Z",
+      "2022-01-21T16:31:25.530Z"
+    ],
+    "createdAt": "2022-01-21T16:31:25.536Z",
+    "updatedAt": "2022-02-17T16:13:49.117Z",
+    "__v": 0
+  },
+  {
+    "_id": "61eb832d227dca7d3dbda720",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Tivi Sony Bravia KDL-50W800G",
+        "quantity": 1,
+        "image": "/images/televisions/3.jpg",
+        "price": 413.98,
+        "product": "61af80ba5f7a0d3540559e28",
+        "commented": false,
+        "_id": "61eb832d227dca7d3dbda721"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0123456789",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 413.98,
+    "shippingPrice": 4.14,
+    "discountPrice": 10,
+    "total": 408.12,
+    "status": "Ordered Successfully",
+    "statusTime": ["2022-01-22T04:08:13.255Z"],
+    "createdAt": "2022-01-22T04:08:13.261Z",
+    "updatedAt": "2022-01-22T04:08:13.261Z",
+    "__v": 0
+  },
+  {
+    "_id": "61eb8348227dca7d3dbda752",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Laptop Apple Macbook Air Retina MREE2LL/A VN/A",
+        "quantity": 1,
+        "image": "/images/laptops/8.jpg",
+        "price": 648.99,
+        "product": "61af80ba5f7a0d3540559df2",
+        "commented": false,
+        "_id": "61eb8348227dca7d3dbda753"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "paypal",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "2ET73560GS3981639",
+      "status": "COMPLETED",
+      "created": "2022-01-22T04:09:06.000Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 648.99,
+    "shippingPrice": 6.49,
+    "discountPrice": 0,
+    "total": 655.48,
+    "status": "Shop Received",
+    "statusTime": ["2022-02-17T16:13:45.524Z", "2022-01-22T04:08:40.114Z"],
+    "createdAt": "2022-01-22T04:08:40.118Z",
+    "updatedAt": "2022-02-17T16:13:45.525Z",
+    "__v": 0
+  },
+  {
+    "_id": "61eb835f227dca7d3dbda79b",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Laptop Asus D409DA-EK095T",
+        "quantity": 1,
+        "image": "/images/laptops/3.jpg",
+        "price": 399,
+        "product": "61af80ba5f7a0d3540559df9",
+        "commented": false,
+        "_id": "61eb835f227dca7d3dbda79c"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "Stripe Card",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "pi_3KKauqBQxomxIO4F0xVduSYf",
+      "status": "succeeded",
+      "created": "2022-01-22T04:09:28.000Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 399,
+    "shippingPrice": 3.99,
+    "discountPrice": 0,
+    "total": 402.99,
+    "status": "Getting Product",
+    "statusTime": [
+      "2022-02-17T16:13:41.691Z",
+      "2022-02-12T14:49:01.421Z",
+      "2022-01-22T04:09:03.142Z"
+    ],
+    "createdAt": "2022-01-22T04:09:03.147Z",
+    "updatedAt": "2022-02-17T16:13:41.692Z",
+    "__v": 0
+  },
+  {
+    "_id": "61eb8379227dca7d3dbda7d3",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Keyboard Akko Ocean Star",
+        "quantity": 1,
+        "image": "/images/accessories/Keyboard-Akko-Ocean-Star-1.jpg",
+        "price": 76,
+        "product": "61af80ba5f7a0d3540559e18",
+        "commented": true,
+        "_id": "61eb8379227dca7d3dbda7d4"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "zaloPay",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "220122_657016",
+      "status": "success",
+      "created": "2022-01-22T04:09:28.882Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 76,
+    "shippingPrice": 0.76,
+    "discountPrice": 0,
+    "total": 76.76,
+    "status": "Delivered",
+    "statusTime": [
+      "2022-02-27T05:30:14.228Z",
+      "2022-02-17T08:06:51.246Z",
+      "2022-02-12T14:48:57.258Z",
+      "2022-01-24T13:46:00.104Z",
+      "2022-01-24T13:45:21.985Z",
+      "2022-01-22T04:13:23.225Z",
+      "2022-01-22T04:09:29.381Z"
+    ],
+    "createdAt": "2022-01-22T04:09:29.386Z",
+    "updatedAt": "2022-02-27T05:30:14.229Z",
+    "__v": 0
+  },
+  {
+    "_id": "61eb8395227dca7d3dbda804",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Beats solo3 wireless headphones",
+        "quantity": 2,
+        "image": "/images/accessories/beats-solo3-wireless-headphones-1.jpg",
+        "price": 46.4,
+        "product": "61af80ba5f7a0d3540559df3",
+        "commented": false,
+        "_id": "61eb8395227dca7d3dbda805"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "MoMo",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "MOMO1642824576427",
+      "status": "success",
+      "created": "2022-01-22T04:09:57.459Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 92.8,
+    "shippingPrice": 0.93,
+    "discountPrice": 0,
+    "total": 93.73,
+    "status": "Cancelled",
+    "statusTime": ["2022-01-22T04:10:40.466Z", "2022-01-22T04:09:57.952Z"],
+    "createdAt": "2022-01-22T04:09:57.956Z",
+    "updatedAt": "2022-01-22T04:10:40.469Z",
+    "__v": 1
+  },
+  {
+    "_id": "620e73a58dcc9fc6bd7bffbd",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Tivi Sony KD-65X8000H",
+        "quantity": 1,
+        "image": "/images/televisions/1.jpg",
+        "price": 349.99,
+        "product": "61af80ba5f7a0d3540559e0f",
+        "commented": true,
+        "_id": "620e73a58dcc9fc6bd7bffbe"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "Stripe Card",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "pi_3KUCZbBQxomxIO4F0RBC8bOy",
+      "status": "succeeded",
+      "created": "2022-02-17T16:11:15.000Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 349.99,
+    "shippingPrice": 3.5,
+    "discountPrice": 50,
+    "total": 303.49,
+    "status": "Ordered Successfully",
+    "statusTime": ["2022-02-17T16:11:17.212Z"],
+    "createdAt": "2022-02-17T16:11:17.218Z",
+    "updatedAt": "2022-02-18T15:03:55.676Z",
+    "__v": 0
+  },
+  {
+    "_id": "6212f78d356a5c6ac07fecaa",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Electronic Kitchen Scale 5kg Electronic Kitchen Scale",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/1.jpg",
+        "price": 89,
+        "product": "61af80ba5f7a0d3540559df8",
+        "commented": true,
+        "_id": "6212f78d356a5c6ac07fecab"
+      },
+      {
+        "name": "Beats solo3 wireless headphones",
+        "quantity": 1,
+        "image": "/images/accessories/beats-solo3-wireless-headphones-1.jpg",
+        "price": 46.4,
+        "product": "61af80ba5f7a0d3540559df3",
+        "commented": false,
+        "_id": "6212f78d356a5c6ac07fecac"
+      }
+    ],
+    "address": "11/4 đường 9 , Phường Đồng Xuân , Quận Hoàn Kiếm , Hà Nội",
+    "paymentMethod": "cash",
+    "phone": "0123456789",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Anh Hai"
+    },
+    "totalPrice": 135.4,
+    "shippingPrice": 1.35,
+    "discountPrice": 0,
+    "total": 136.75,
+    "status": "Ordered Successfully",
+    "statusTime": ["2022-02-21T02:23:09.486Z"],
+    "createdAt": "2022-02-21T02:23:09.502Z",
+    "updatedAt": "2022-09-12T10:16:15.293Z",
+    "__v": 0
+  },
+  {
+    "_id": "6231c1029749e0b2022da120",
+    "user": "6231c086dd819f3a64705dde",
+    "orderItems": [
+      {
+        "name": "Beats solo3 wireless headphones",
+        "quantity": 1,
+        "image": "/images/accessories/beats-solo3-wireless-headphones-1.jpg",
+        "price": 46.4,
+        "product": "61af80ba5f7a0d3540559df3",
+        "commented": true,
+        "_id": "6231c1029749e0b2022da121"
+      }
+    ],
+    "address": "ecvds34rxdx , Xã Mỹ Đức , Huyện An Lão , Hải Phòng",
+    "paymentMethod": "Stripe Card",
+    "phone": "1323123123",
+    "paymentResult": {
+      "id": "pi_3KduRABQxomxIO4F0SFl9P23",
+      "status": "succeeded",
+      "created": "2022-03-16T10:50:40.000Z",
+      "receipt_email": "ducthang@gmail.com",
+      "receipt_name": "test"
+    },
+    "totalPrice": 46.4,
+    "shippingPrice": 0.46,
+    "discountPrice": 0,
+    "total": 46.86,
+    "status": "Ordered Successfully",
+    "statusTime": ["2022-03-16T10:50:42.323Z"],
+    "createdAt": "2022-03-16T10:50:42.332Z",
+    "updatedAt": "2022-03-16T10:51:28.542Z",
+    "__v": 0
+  },
+  {
+    "_id": "623aa59ca7ab7801f77a7137",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Samsung Galaxy Note 10 Plus 5G 512GB",
+        "quantity": 1,
+        "image": "/images/smartphones/8.jpg",
+        "price": 47.49,
+        "product": "61af80ba5f7a0d3540559df4",
+        "commented": true,
+        "_id": "623aa59ca7ab7801f77a7138"
+      }
+    ],
+    "address": "11/4 đường 9 , Phường Đồng Xuân , Quận Hoàn Kiếm , Hà Nội",
+    "paymentMethod": "Stripe Card",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "pi_3KgM3KBQxomxIO4F1tpYB7Vr",
+      "status": "succeeded",
+      "created": "2022-03-23T04:44:10.000Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Anh Hai"
+    },
+    "totalPrice": 47.49,
+    "shippingPrice": 0.47,
+    "discountPrice": 0,
+    "total": 47.96,
+    "status": "Ordered Successfully",
+    "statusTime": ["2022-03-23T04:44:12.837Z"],
+    "createdAt": "2022-03-23T04:44:12.856Z",
+    "updatedAt": "2022-06-22T14:56:52.453Z",
+    "__v": 0
+  },
+  {
+    "_id": "63d7e906a341f6aae67e9f5d",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Tivi Led Sharp 2T-C45AE1X 45 inch",
+        "quantity": 1,
+        "image": "/images/televisions/6.jpg",
+        "price": 450,
+        "product": "61af80ba5f7a0d3540559df7",
+        "commented": false,
+        "_id": "63d7e906a341f6aae67e9f5e"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0738485890",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 450,
+    "shippingPrice": 7.22,
+    "discountPrice": 0,
+    "total": 457.22,
+    "status": "Ordered Successfully",
+    "statusTime": ["2023-01-30T15:57:58.300Z"],
+    "createdAt": "2023-01-30T15:57:58.309Z",
+    "updatedAt": "2023-01-30T15:57:58.309Z",
+    "__v": 0
+  },
+  {
+    "_id": "63d7e96762afab45860c4b70",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Electronic Kitchen Scale 5kg Electronic Kitchen Scale",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/1.jpg",
+        "price": 3,
+        "product": "61af80ba5f7a0d3540559df8",
+        "commented": false,
+        "_id": "63d7e96762afab45860c4b71"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "Stripe Card",
+    "phone": "0738485890",
+    "paymentResult": {
+      "id": "pi_3MVzlZBQxomxIO4F2xZJwuOv",
+      "status": "succeeded",
+      "created": "2023-01-30T15:59:33.000Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 3,
+    "shippingPrice": 7.22,
+    "discountPrice": 0,
+    "total": 10.22,
+    "status": "Ordered Successfully",
+    "statusTime": ["2023-01-30T15:59:35.451Z"],
+    "createdAt": "2023-01-30T15:59:35.457Z",
+    "updatedAt": "2023-01-30T15:59:35.457Z",
+    "__v": 0
+  },
+  {
+    "_id": "63d81122a88da88f48ccb386",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Electronic Kitchen Scale 5kg Electronic Kitchen Scale",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/1.jpg",
+        "price": 3,
+        "product": "61af80ba5f7a0d3540559df8",
+        "commented": false,
+        "_id": "63d81122a88da88f48ccb387"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "zaloPay",
+    "phone": "0738485890",
+    "paymentResult": {
+      "id": "230131_01483800265",
+      "status": "success",
+      "created": "2023-01-30T18:49:00.254Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 3,
+    "shippingPrice": 0,
+    "discountPrice": 0,
+    "total": 3,
+    "status": "Ordered Successfully",
+    "statusTime": ["2023-01-30T18:49:06.151Z"],
+    "createdAt": "2023-01-30T18:49:06.161Z",
+    "updatedAt": "2023-01-30T18:49:06.161Z",
+    "__v": 0
+  },
+  {
+    "_id": "63d87ab952a5eff9f0cf5d1a",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Electronic Kitchen Scale 5kg Electronic Kitchen Scale",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/1.jpg",
+        "price": 3,
+        "product": "61af80ba5f7a0d3540559df8",
+        "commented": true,
+        "_id": "63d87ab952a5eff9f0cf5d1b"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "zaloPay",
+    "phone": "0738485890",
+    "paymentResult": {
+      "id": "230131_09191300282",
+      "status": "success",
+      "created": "2023-01-31T02:19:36.951Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 3,
+    "shippingPrice": 7.22,
+    "discountPrice": 0,
+    "total": 10.22,
+    "status": "Ordered Successfully",
+    "statusTime": ["2023-01-31T02:19:37.181Z"],
+    "createdAt": "2023-01-31T02:19:37.192Z",
+    "updatedAt": "2023-01-31T14:56:14.002Z",
+    "__v": 0
+  },
+  {
+    "_id": "63d87ba452a5eff9f0cf5d5f",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Electronic Kitchen Scale 5kg Electronic Kitchen Scale",
+        "quantity": 1,
+        "image": "/images/kitchen-appliances/1.jpg",
+        "price": 3,
+        "product": "61af80ba5f7a0d3540559df8",
+        "commented": false,
+        "_id": "63d87ba452a5eff9f0cf5d60"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "zaloPay",
+    "phone": "0738485890",
+    "paymentResult": {
+      "id": "230131_09231100283",
+      "status": "success",
+      "created": "2023-01-31T02:23:32.760Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 3,
+    "shippingPrice": 7.22,
+    "discountPrice": 0,
+    "total": 10.22,
+    "status": "Ordered Successfully",
+    "statusTime": ["2023-01-31T02:23:32.960Z"],
+    "createdAt": "2023-01-31T02:23:32.969Z",
+    "updatedAt": "2023-01-31T02:23:32.969Z",
+    "__v": 0
+  },
+  {
+    "_id": "63d8eeccc44fb2f90ef4091e",
+    "user": "61c937edc8f7d7ccc2f0e331",
+    "orderItems": [
+      {
+        "name": "PlayStation 4",
+        "quantity": 1,
+        "image": "/images/accessories/PlayStation-4-1.jpg",
+        "price": 112.5,
+        "product": "61af80ba5f7a0d3540559e1d",
+        "commented": false,
+        "_id": "63d8eeccc44fb2f90ef4091f"
+      }
+    ],
+    "address": "123 , Thị trấn Ngãi Giao , Huyện Châu Đức , Bà Rịa - Vũng Tàu",
+    "paymentMethod": "zaloPay",
+    "phone": "0123456789",
+    "paymentResult": {
+      "id": "230131_17340900321",
+      "status": "success",
+      "created": "2023-01-31T10:34:51.508Z",
+      "receipt_email": "ngochuyen@gmail.com",
+      "receipt_name": "abc"
+    },
+    "totalPrice": 112.5,
+    "shippingPrice": 6.96,
+    "discountPrice": 0,
+    "total": 119.46,
+    "status": "Ordered Successfully",
+    "statusTime": ["2023-01-31T10:34:52.558Z"],
+    "createdAt": "2023-01-31T10:34:52.567Z",
+    "updatedAt": "2023-01-31T10:34:52.567Z",
+    "__v": 0
+  },
+  {
+    "_id": "63dbfeb75cb4e950e9db2418",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "One Piece Chopper Keyboard",
+        "quantity": 1,
+        "image": "/images/accessories/One-Piece-Chopper-Keyboard-1.jpg",
+        "price": 83,
+        "product": "61af80ba5f7a0d3540559e2c",
+        "commented": false,
+        "_id": "63dbfeb75cb4e950e9db2419"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "zaloPay",
+    "phone": "0738485890",
+    "paymentResult": {
+      "id": "230203_01184400409",
+      "status": "success",
+      "created": "2023-02-02T18:19:34.576Z",
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 83,
+    "shippingPrice": 7.22,
+    "discountPrice": 50,
+    "total": 40.22,
+    "status": "Ordered Successfully",
+    "statusTime": ["2023-02-02T18:19:35.848Z"],
+    "createdAt": "2023-02-02T18:19:35.854Z",
+    "updatedAt": "2023-02-02T18:19:35.854Z",
+    "__v": 0
+  },
+  {
+    "_id": "63dbffd5acda1aa3674480d4",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "One Piece Chopper Keyboard",
+        "quantity": 1,
+        "image": "/images/accessories/One-Piece-Chopper-Keyboard-1.jpg",
+        "price": 83,
+        "product": "61af80ba5f7a0d3540559e2c",
+        "commented": false,
+        "_id": "63dbffd5acda1aa3674480d5"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0738485890",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 83,
+    "shippingPrice": 7.22,
+    "discountPrice": 0,
+    "total": 90.22,
+    "status": "Ordered Successfully",
+    "statusTime": ["2023-02-02T18:24:21.435Z"],
+    "createdAt": "2023-02-02T18:24:21.445Z",
+    "updatedAt": "2023-02-02T18:24:21.445Z",
+    "__v": 0
+  },
+  {
+    "_id": "63dd2f63d04a43dbd4a43ed8",
+    "user": "61af80b95f7a0d3540559def",
+    "orderItems": [
+      {
+        "name": "Laptop Asus D409DA-EK095T",
+        "quantity": 1,
+        "image": "/images/laptops/3.jpg",
+        "price": 599.99,
+        "product": "61af80ba5f7a0d3540559df9",
+        "commented": false,
+        "_id": "63dd2f63d04a43dbd4a43ed9"
+      }
+    ],
+    "address": "26a , Phường Trường Thọ , Thành Phố Thủ Đức , Hồ Chí Minh",
+    "paymentMethod": "cash",
+    "phone": "0738485890",
+    "paymentResult": {
+      "receipt_email": "nmth206@gmail.com",
+      "receipt_name": "Ngô Minh Thành"
+    },
+    "totalPrice": 599.99,
+    "shippingPrice": 7.22,
+    "discountPrice": 0,
+    "total": 607.21,
+    "status": "Ordered Successfully",
+    "statusTime": ["2023-02-03T15:59:31.233Z"],
+    "createdAt": "2023-02-03T15:59:31.238Z",
+    "updatedAt": "2023-02-03T15:59:31.238Z",
+    "__v": 0
+  }
+]

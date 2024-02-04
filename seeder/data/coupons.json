@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "61af80bb5f7a0d3540559e30",
+    "name": "DISCOUNT",
+    "expiry": "2023-04-28T00:00:00.000Z",
+    "discount": 10,
+    "quantity": 15,
+    "__v": 0,
+    "createdAt": "2021-12-07T15:41:47.395Z",
+    "updatedAt": "2023-02-01T15:38:29.841Z"
+  },
+  {
+    "_id": "61af80bb5f7a0d3540559e31",
+    "name": "DISCOUNT3",
+    "expiry": "2022-01-11T00:00:00.000Z",
+    "discount": 13,
+    "quantity": 30,
+    "__v": 0,
+    "createdAt": "2021-12-07T15:41:47.395Z",
+    "updatedAt": "2021-12-28T11:08:51.789Z"
+  },
+  {
+    "_id": "61af80bb5f7a0d3540559e33",
+    "name": "DISCOUNT5",
+    "expiry": "2021-12-17T15:41:43.630Z",
+    "discount": 15,
+    "quantity": 30,
+    "__v": 0,
+    "createdAt": "2021-12-07T15:41:47.395Z",
+    "updatedAt": "2021-12-07T15:41:47.395Z"
+  },
+  {
+    "_id": "61af80bb5f7a0d3540559e32",
+    "name": "DISCOUNT4",
+    "expiry": "2021-12-17T15:41:43.630Z",
+    "discount": 14,
+    "quantity": 15,
+    "__v": 0,
+    "createdAt": "2021-12-07T15:41:47.395Z",
+    "updatedAt": "2021-12-07T15:41:47.395Z"
+  },
+  {
+    "_id": "61af80bb5f7a0d3540559e2f",
+    "name": "DISCOUNT2",
+    "expiry": "2022-02-23T00:00:00.000Z",
+    "discount": 10,
+    "quantity": 48,
+    "__v": 0,
+    "createdAt": "2021-12-07T15:41:47.395Z",
+    "updatedAt": "2022-01-22T04:08:13.008Z"
+  },
+  {
+    "_id": "61af9f909e2a4c22ce0a0d61",
+    "name": "DISCOUNT6",
+    "expiry": "2022-01-31T00:00:00.000Z",
+    "discount": 20,
+    "quantity": 22,
+    "createdAt": "2021-12-07T17:53:20.762Z",
+    "updatedAt": "2021-12-28T11:09:21.130Z",
+    "__v": 0
+  },
+  {
+    "_id": "61d6604277e76c187a587e7d",
+    "name": "SALECUOINAM",
+    "expiry": "2023-06-30T00:00:00.000Z",
+    "discount": 50,
+    "quantity": 20,
+    "createdAt": "2022-01-06T03:21:38.100Z",
+    "updatedAt": "2023-02-02T18:19:35.831Z",
+    "__v": 0
+  }
+]

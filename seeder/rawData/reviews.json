@@ -1,0 +1,808 @@
+[{
+  "_id": {
+    "$oid": "61afa577db773acade527f22"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559df0"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559df9"
+  },
+  "possessed": false,
+  "rating": 3,
+  "hide": false,
+  "comment": "ok cũng dc",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638901111374"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676172896710"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61afa57ddb773acade527f2b"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559df0"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559e12"
+  },
+  "possessed": false,
+  "rating": 5,
+  "hide": false,
+  "comment": "tàm tạm",
+  "numLike": 1,
+  "userLiked": [
+    {
+      "$oid": "61af80b95f7a0d3540559def"
+    }
+  ],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638901117875"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1640351826304"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61afa59adb773acade527f34"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559df0"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559df2"
+  },
+  "possessed": false,
+  "rating": 4,
+  "hide": false,
+  "comment": "Về cơ bản thì ok, nhưng tem dán hộp thì dễ bong nên ko biết chất lượng ntn. Nhưng đc cái đeo cũng thoải mái.",
+  "numLike": 1,
+  "userLiked": [
+    {
+      "$oid": "61af80b95f7a0d3540559def"
+    }
+  ],
+  "responseReview": [
+    {
+      "user": {
+        "$oid": "61af80b95f7a0d3540559dee"
+      },
+      "comment": "sao bạn",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1641481420897"
+        }
+      },
+      "isAdmin": true,
+      "_id": {
+        "$oid": "61d704cc5deb09a827a6b8ff"
+      }
+    },
+    {
+      "user": {
+        "$oid": "61af80b95f7a0d3540559def"
+      },
+      "comment": "sao nè",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1640689025413"
+        }
+      },
+      "isAdmin": false,
+      "_id": {
+        "$oid": "61caed8100c7c46a0e4ef2dc"
+      }
+    },
+    {
+      "user": {
+        "$oid": "61af80b95f7a0d3540559def"
+      },
+      "comment": "??",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1640445064035"
+        }
+      },
+      "isAdmin": false,
+      "_id": {
+        "$oid": "61c734884434749981173617"
+      }
+    },
+    {
+      "user": {
+        "$oid": "61b6da0537850cfd98385a6f"
+      },
+      "comment": "haha",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1640437601597"
+        }
+      },
+      "isAdmin": false,
+      "_id": {
+        "$oid": "61c71761d759b12d898faa5b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638901146032"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1641481420911"
+    }
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "61b00ff29e632166e19ec883"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559df3"
+  },
+  "possessed": false,
+  "rating": 1,
+  "hide": false,
+  "comment": "quá tệ, sản phẩm vừa mở hộp đã tróc và rách rồi",
+  "numLike": 1,
+  "userLiked": [
+    {
+      "$oid": "61af80b95f7a0d3540559def"
+    }
+  ],
+  "responseReview": [
+    {
+      "user": {
+        "$oid": "61af80b95f7a0d3540559def"
+      },
+      "comment": "gõ nhầm",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1645292327307"
+        }
+      },
+      "isAdmin": false,
+      "_id": {
+        "$oid": "62112b2724f748a6ea59fc19"
+      }
+    },
+    {
+      "user": {
+        "$oid": "61af80b95f7a0d3540559def"
+      },
+      "comment": "chaoâ baǹ",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1645292309408"
+        }
+      },
+      "isAdmin": false,
+      "_id": {
+        "$oid": "62112b1524f748a6ea59fc09"
+      }
+    },
+    {
+      "user": {
+        "$oid": "61af80b95f7a0d3540559dee"
+      },
+      "comment": "sao",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1640444806271"
+        }
+      },
+      "isAdmin": true,
+      "_id": {
+        "$oid": "61c73386de37f79efa564273"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1638928370089"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1645354586297"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "61cac2eec2de43007c92eaac"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559df3"
+  },
+  "possessed": false,
+  "rating": 5,
+  "hide": false,
+  "comment": "nhiều đấy",
+  "numLike": 1,
+  "userLiked": [
+    {
+      "$oid": "61af80b95f7a0d3540559def"
+    }
+  ],
+  "responseReview": [
+    {
+      "user": {
+        "$oid": "61af80b95f7a0d3540559def"
+      },
+      "comment": "hay",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1642824412565"
+        }
+      },
+      "isAdmin": false,
+      "_id": {
+        "$oid": "61eb82dc227dca7d3dbda65f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1640678126630"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1642824412568"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61cac326c2de43007c92eabb"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559dfc"
+  },
+  "possessed": false,
+  "rating": 5,
+  "hide": false,
+  "comment": "Thời gian vận chuyển rất hợp lí. Tôi đã đặt hàng với tâm thế hào hứng chờ đợi để được trải nghiệm sản phẩm và tôi không hề bị chờ mỏi cổ. Có thể thấy bên vận chuyển không quản ngại thời tiết và đường xá xa xôi để đưa sản phẩm cho tôi trong thời gian ngắn nhất.",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1640678182519"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1642497827014"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61caee515963d8fc38ea9ea9"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559df2"
+  },
+  "possessed": true,
+  "rating": 5,
+  "hide": false,
+  "comment": "Sản phẩm giao hàng đúng thời gian, chất lượng âm thanh, hình ảnh tốt, sống động",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1640689233863"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1640689233863"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e0fa2cc70574be4d016aa4"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559e12"
+  },
+  "possessed": false,
+  "rating": 4,
+  "hide": false,
+  "comment": "Good",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [
+    {
+      "user": {
+        "$oid": "61af80b95f7a0d3540559dee"
+      },
+      "comment": "sao này",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1642136616462"
+        }
+      },
+      "isAdmin": true,
+      "_id": {
+        "$oid": "61e10428d234fef673f02991"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1642134060940"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1642136616468"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61e17b937bf2ceb9122aaef9"
+  },
+  "user": {
+    "$oid": "61c0af9f5099de0ea46fc974"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559dfc"
+  },
+  "possessed": false,
+  "rating": 3,
+  "hide": false,
+  "comment": "Chào em! chị có mua 1 bếp âm bên  , khi lấy ra lắp đặt thì phát hiện sản phẩm bị cong đường viền sắt giáp với mặt kính, em cho đổi lại gấp dùm chị nhé!",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [
+    {
+      "user": {
+        "$oid": "61af80b95f7a0d3540559def"
+      },
+      "comment": "mình thấy sài tốt mà",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1645292617863"
+        }
+      },
+      "isAdmin": false,
+      "_id": {
+        "$oid": "62112c4984687a4f7ac1d0e1"
+      }
+    },
+    {
+      "user": {
+        "$oid": "61af80b95f7a0d3540559dee"
+      },
+      "comment": "bạn gặp vấn đề gì",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1642497777723"
+        }
+      },
+      "isAdmin": true,
+      "_id": {
+        "$oid": "61e686f12e9c89e696a1fe55"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1642167187344"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1645292617882"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61eadd9e845491e740e375c5"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559df3"
+  },
+  "possessed": false,
+  "rating": 4,
+  "hide": false,
+  "comment": "tạm ổn",
+  "numLike": 1,
+  "userLiked": [
+    {
+      "$oid": "61af80b95f7a0d3540559def"
+    }
+  ],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1642782110596"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1644677269781"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61eadea7845491e740e37706"
+  },
+  "user": {
+    "$oid": "61c0af9f5099de0ea46fc974"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559e1d"
+  },
+  "possessed": false,
+  "rating": 4,
+  "hide": false,
+  "comment": "1, Sản phẩm vận chuyển đóng gói cẩn thận (hàng dễ vỡ) 2, Sản phẩm không còn SEAL bên ngoài hộp 3, Qua 6 ngày trải nghiệm => mình sài ngon lành, chưa có vấn đề gì ( mình là khách hàng dễ chịu) * Sản phẩm không hề phù hợp với bạn nào cần sản phẩm còn nguyên SEAL, nên trực tiếp ra ngoài tiệm nếu bạn là 1 khác hàng khó tính ",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1642782375475"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1642782375475"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61eae002845491e740e377c8"
+  },
+  "user": {
+    "$oid": "61c0af9f5099de0ea46fc974"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559df4"
+  },
+  "possessed": false,
+  "rating": 5,
+  "hide": false,
+  "comment": "Máy đẹp, chạy mượt mà",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [
+    {
+      "user": {
+        "$oid": "61af80b95f7a0d3540559dee"
+      },
+      "comment": "shop cám ơn bạn",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1675265947918"
+        }
+      },
+      "isAdmin": true,
+      "_id": {
+        "$oid": "63da879b1b259da45d4e39aa"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1642782722811"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675265947923"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61eb83cf227dca7d3dbda860"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559e1d"
+  },
+  "possessed": true,
+  "rating": 4,
+  "hide": false,
+  "comment": "Giống như mấy bạn đã từng mua sản phẩm và review khá hài lòng. Tôi cũng cực kỳ hài lòng vì tay cầm mới tanh, đóng gói kỹ với còn trong vỏ nguyên thủy, từ chính hãng Sony. Kết nối bluetooth vô PC chơi game trên Stream tuyệt vời mượt. Thêm núm để bao quản joysticks bớt mòn",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1642824655807"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1642824655807"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61eb83e7227dca7d3dbda882"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559e18"
+  },
+  "possessed": false,
+  "rating": 4,
+  "hide": false,
+  "comment": "Sản phẩm đúng mô tả, typing khá êm tai ạ 🥹🥹🥹",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1642824679245"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1642824679245"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620fb55bbe0884083768c6f6"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559e0f"
+  },
+  "possessed": false,
+  "rating": 5,
+  "hide": false,
+  "comment": "Hình ảnh đẹp, tươi tắn, âm thanh ổn, giá tốt, nói chung thì ở tầm giá này mà có được tivi android 4K, 50inch thì quá ổn. Còn độ bền thì chờ sử dụng thời gian thì mới biết được.",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1645196635653"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1645196635653"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231c1309749e0b2022da12d"
+  },
+  "user": {
+    "$oid": "6231c086dd819f3a64705dde"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559df3"
+  },
+  "possessed": false,
+  "rating": 5,
+  "hide": false,
+  "comment": "Giao nhanh, hàng chính hãng chất lượng tốt. Mình sử dụng máy Samsung Galaxy M32 kết nối tốt. Kiểm tra bảo hành chính hãng điện tử ok. Tuy nhiên, nhân viên giao hàng có thái độ chưa tốt lắm. Nhìn chung mình hài lòng với sản phẩm và tốc độ giao hàng. Chất lượng sẽ cần thêm thời gian kiểm chứng.",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647427888520"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647427888520"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b32db434ebd3a2032aee4c"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559df4"
+  },
+  "possessed": false,
+  "rating": 3,
+  "hide": false,
+  "comment": "các ứng dụng chạy quá chậm. mởi zalo mất 2 phút mới truy cập dc",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1655909812434"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1655909812434"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631f06ef99881f432c165bd3"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559df8"
+  },
+  "possessed": false,
+  "rating": 4,
+  "hide": false,
+  "comment": "Thiết kế đẹp, gọn nhẹ, độ bền cao. Shipper khá thân thiện",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662977775264"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662977775264"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d92c0da44eae2dbd6e7d6e"
+  },
+  "user": {
+    "$oid": "61af80b95f7a0d3540559def"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559df8"
+  },
+  "possessed": false,
+  "rating": 5,
+  "hide": false,
+  "comment": "cân rẻ sài bền",
+  "numLike": 0,
+  "userLiked": [],
+  "responseReview": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675176973986"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675176973986"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e860955b6ba93999b21578"
+  },
+  "user": {
+    "$oid": "61c0af9f5099de0ea46fc974"
+  },
+  "product": {
+    "$oid": "61af80ba5f7a0d3540559dfa"
+  },
+  "possessed": true,
+  "rating": 5,
+  "hide": false,
+  "comment": "Sản phẩm chất lượng, chủ shop nhiệt tình tư vấn cho mình mặc dù là mình nhắn hỏi lúc ấy đã khuya lắm rồi.",
+  "numLike": 3,
+  "userLiked": [
+    {
+      "$oid": "61af80b95f7a0d3540559def"
+    },
+    {
+      "$oid": "620e6aeb66255a36eb261382"
+    },
+    {
+      "$oid": "61c0af9f5099de0ea46fc974"
+    }
+  ],
+  "responseReview": [
+    {
+      "user": {
+        "$oid": "61c0af9f5099de0ea46fc974"
+      },
+      "comment": "@Đỗ Trang khoảng 2 ngày.",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1676173719710"
+        }
+      },
+      "isAdmin": false,
+      "_id": {
+        "$oid": "63e861975b6ba93999b2167a"
+      }
+    },
+    {
+      "user": {
+        "$oid": "620e6aeb66255a36eb261382"
+      },
+      "comment": "Đặt hàng trong bao lâu sẽ tới bạn?",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1676173610936"
+        }
+      },
+      "isAdmin": false,
+      "_id": {
+        "$oid": "63e8612a5b6ba93999b215e4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676173461763"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676173719711"
+    }
+  },
+  "__v": 2
+}]

@@ -1,0 +1,51 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext", "scripthost"],
+    "allowJs": true,
+    "skipLibCheck": false,
+    // "strictNullChecks": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "noImplicitAny": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"],
+      "@/components/*": ["src/components/*"],
+      "@/hook/*": ["src/hook/*"],
+      "@/styles/*": ["src/styles/*"],
+      "@/redux/reducers/*": ["src/redux/reducers/*"],
+      "@/models/*": ["server/models/*"],
+      "@/middleware/*": ["server/middleware/*"],
+      "@/controllers/*": ["server/controllers/*"],
+      "@/data/*": ["server/data/*"],
+      "@/lib/*": ["lib/*"],
+      "@/utils/*": ["src/utils/*"],
+      "@/react-query/*": ["src/react-query/*"],
+      "@/axiosInstance/*": ["src/axiosInstance/*"]
+    }
+  },
+  "include": [
+    // "next-env.d.ts",
+    // "**/*.ts",
+    // "**/*.tsx",
+    // "**/*.js",
+    // "**/*.jsx"
+    "next-env.d.ts",
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "server/**/*.ts",
+    "server/**/*.tsx",
+    "lib/**/*.tsx",
+    "lib/**/*.ts"
+  ],
+  "exclude": ["node_modules", "seeder"]
+}

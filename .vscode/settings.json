@@ -1,0 +1,29 @@
+{
+  "cSpell.words": [
+    "ahooks",
+    "antd",
+    "chatbox",
+    "classname",
+    "Cloudinary",
+    "commitlint",
+    "countup",
+    "Dragable",
+    "isnan",
+    "linebreak",
+    "noemit",
+    "orderd",
+    "persistor",
+    "plusplus",
+    "Popconfirm",
+    "reduxjs",
+    "Scheam",
+    "Sider",
+    "suneditor",
+    "tailwindcss",
+    "virtuals",
+    "xfbml",
+    "Zalo"
+  ],
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "liveServer.settings.port": 5501
+}

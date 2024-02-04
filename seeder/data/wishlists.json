@@ -1,0 +1,99 @@
+[
+  {
+    "_id": "61b00ada6d5337b639af0faa",
+    "user": "61b00ada6d5337b639af0fa8",
+    "products": [
+      "61af80ba5f7a0d3540559e18",
+      "61af80ba5f7a0d3540559e22",
+      "61af80ba5f7a0d3540559e20"
+    ],
+    "createdAt": "2021-12-08T01:31:06.585Z",
+    "updatedAt": "2021-12-08T01:31:06.585Z",
+    "__v": 0
+  },
+  {
+    "_id": "61b0191750bb21e8c3e2b025",
+    "user": "61af80b95f7a0d3540559def",
+    "products": [
+      "61af80ba5f7a0d3540559e06",
+      "61af80ba5f7a0d3540559e1d",
+      "61af80ba5f7a0d3540559df8"
+    ],
+    "createdAt": "2021-12-08T02:31:51.162Z",
+    "updatedAt": "2022-02-17T16:09:11.447Z",
+    "__v": 0
+  },
+  {
+    "_id": "61b6da0537850cfd98385a71",
+    "user": "61b6da0537850cfd98385a6f",
+    "products": ["61af80ba5f7a0d3540559e1b", "61af80ba5f7a0d3540559df5"],
+    "createdAt": "2021-12-13T05:28:37.449Z",
+    "updatedAt": "2021-12-13T05:28:37.449Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c0af9f5099de0ea46fc976",
+    "user": "61c0af9f5099de0ea46fc974",
+    "products": [
+      "61af80ba5f7a0d3540559df3",
+      "61af80ba5f7a0d3540559e0e",
+      "61af80ba5f7a0d3540559dfc"
+    ],
+    "createdAt": "2021-12-20T16:30:23.918Z",
+    "updatedAt": "2021-12-20T16:30:23.918Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c8a5d2a91c8434212a2bda",
+    "user": "61c8a5d1a91c8434212a2bd8",
+    "products": [],
+    "createdAt": "2021-12-26T17:26:42.173Z",
+    "updatedAt": "2021-12-26T17:26:42.173Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c937edc8f7d7ccc2f0e333",
+    "user": "61c937edc8f7d7ccc2f0e331",
+    "products": [],
+    "createdAt": "2021-12-27T03:50:06.000Z",
+    "updatedAt": "2021-12-27T03:50:06.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "61eb81d4227dca7d3dbda580",
+    "user": "61eb81d3227dca7d3dbda57e",
+    "products": [
+      "61af80ba5f7a0d3540559e1f",
+      "61af80ba5f7a0d3540559e11",
+      "61af80ba5f7a0d3540559e00"
+    ],
+    "createdAt": "2022-01-22T04:02:28.380Z",
+    "updatedAt": "2022-01-22T04:02:28.380Z",
+    "__v": 0
+  },
+  {
+    "_id": "620e6aeb66255a36eb261384",
+    "user": "620e6aeb66255a36eb261382",
+    "products": [
+      "61af80ba5f7a0d3540559e22",
+      "61af80ba5f7a0d3540559e2c",
+      "61af80ba5f7a0d3540559df3"
+    ],
+    "createdAt": "2022-02-17T15:34:03.719Z",
+    "updatedAt": "2022-02-17T15:34:03.719Z",
+    "__v": 0
+  },
+  {
+    "_id": "6231c086dd819f3a64705de0",
+    "user": "6231c086dd819f3a64705dde",
+    "products": [
+      "61af80ba5f7a0d3540559df3",
+      "61af80ba5f7a0d3540559df2",
+      "61af80ba5f7a0d3540559e14",
+      "61af80ba5f7a0d3540559e05"
+    ],
+    "createdAt": "2022-03-16T10:48:38.303Z",
+    "updatedAt": "2022-03-16T10:48:38.303Z",
+    "__v": 0
+  }
+]

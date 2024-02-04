@@ -1,0 +1,67 @@
+/* PC */
+@media (min-width: 1024px) {
+}
+
+/* Table and Mobile */
+@media (max-width: 1023px) {
+}
+
+/* Tablet */
+@media (min-width: 1024px) and (max-width: 1023px) {
+}
+
+/* Mobile */
+@media (max-width: 739px) {
+  .s-minWidth-200 {
+    min-width: 1000px;
+  }
+
+  .s-w-10 {
+    width: 50px;
+  }
+
+  .s-text-1 {
+    font-size: 5px;
+  }
+
+  .s-text-4 {
+    font-size: 20px;
+  }
+  .s-text-5 {
+    font-size: 25px;
+  }
+  .s-text-6 {
+    font-size: 30px;
+  }
+  .s-text-8 {
+    font-size: 40px;
+  }
+  .s-text-11 {
+    font-size: 55px;
+  }
+
+  .s-h-10 {
+    height: 50px;
+  }
+
+  .s-h-12 {
+    height: 60px;
+  }
+
+  .s-padding-20 {
+    padding: 100px;
+    padding-left: 50px !important;
+  }
+  .ant-form-item-explain-error {
+    font-size: 25px;
+  }
+  .ant-modal-close .ant-modal-close-x {
+    font-size: 40px;
+  }
+  input[type="password"] {
+    font-size: 30px;
+  }
+  .form-btn {
+    margin-left: 0;
+  }
+}

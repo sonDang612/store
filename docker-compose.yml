@@ -1,0 +1,30 @@
+version: "3.8"
+services:
+  database:
+    container_name: mongodb-database
+    image: mongo:latest
+    ports:
+      - 27018:27017
+    volumes:
+      - db:/data/db
+    networks:
+      - electronics-store
+  app:
+    container_name: electronics-store
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      database:
+        condition: service_healthy
+    ports:
+      - "3000:3000"
+    networks:
+      - electronics-store
+
+volumes:
+  db:
+    driver: bridge
+
+networks:
+  electronics-store:

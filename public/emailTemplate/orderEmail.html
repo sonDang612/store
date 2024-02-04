@@ -1,0 +1,432 @@
+<body>
+  <div>
+    <table
+      align="center"
+      bgcolor="#dcf0f8"
+      border="0"
+      cellpadding="0"
+      cellspacing="0"
+      style="
+        margin: 0;
+        padding: 0;
+        background-color: #f2f2f2;
+        width: 100% !important;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #444;
+        line-height: 18px;
+      "
+      width="100%"
+    >
+      <tbody>
+        <tr>
+          <td
+            align="center"
+            style="
+              font-family: Arial, Helvetica, sans-serif;
+              font-size: 12px;
+              color: #444;
+              line-height: 18px;
+              font-weight: normal;
+            "
+            valign="top"
+          >
+            <table
+              border="0"
+              cellpadding="0"
+              cellspacing="0"
+              style="margin-top: 15px"
+              width="600"
+            >
+              <tbody>
+                <tr style="background: #fff">
+                  <td
+                    align="left"
+                    height="auto"
+                    style="padding: 15px"
+                    width="600"
+                  >
+                    <table>
+                      <tbody>
+                        <tr>
+                          <td>
+                            <h1
+                              style="
+                                font-size: 16px;
+                                font-weight: bold;
+                                color: #444;
+                                padding: 0 0 5px 0;
+                                margin: 0;
+                              "
+                            >
+                              Thank you {{customerName}} for ordering at
+                              Electronic store
+                            </h1>
+
+                            <p
+                              style="
+                                margin: 4px 0;
+                                font-family: Arial, Helvetica, sans-serif;
+                                font-size: 12px;
+                                color: #444;
+                                line-height: 18px;
+                                font-weight: normal;
+                              "
+                            >
+                              The e-store is pleased to announce that your order
+                              #<span class="il">{{orderId}}</span>
+                              has been received and is in the process of
+                              processing.
+                            </p>
+
+                            <h3
+                              style="
+                                font-size: 13px;
+                                font-weight: bold;
+                                color: #02acea;
+                                text-transform: uppercase;
+                                margin: 20px 0 0 0;
+                                border-bottom: 1px solid #ddd;
+                              "
+                            >
+                              Order information #<span class="il"
+                                >{{orderId}}</span
+                              >
+                              <span
+                                style="
+                                  font-size: 12px;
+                                  color: #777;
+                                  text-transform: none;
+                                  font-weight: normal;
+                                "
+                                >({{orderCreated}})</span
+                              >
+                            </h3>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            style="
+                              font-family: Arial, Helvetica, sans-serif;
+                              font-size: 12px;
+                              color: #444;
+                              line-height: 18px;
+                            "
+                          >
+                            <table
+                              border="0"
+                              cellpadding="0"
+                              cellspacing="0"
+                              width="100%"
+                            >
+                              <thead>
+                                <tr>
+                                  <th
+                                    align="left"
+                                    style="
+                                      padding: 6px 9px 0px 9px;
+                                      font-family: Arial, Helvetica, sans-serif;
+                                      font-size: 12px;
+                                      color: #444;
+                                      font-weight: bold;
+                                    "
+                                    width="50%"
+                                  >
+                                    Billing Information
+                                  </th>
+                                  <th
+                                    align="left"
+                                    style="
+                                      padding: 6px 9px 0px 9px;
+                                      font-family: Arial, Helvetica, sans-serif;
+                                      font-size: 12px;
+                                      color: #444;
+                                      font-weight: bold;
+                                    "
+                                    width="50%"
+                                  >
+                                    Delivery address
+                                  </th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td
+                                    style="
+                                      padding: 3px 9px 9px 9px;
+                                      border-top: 0;
+                                      font-family: Arial, Helvetica, sans-serif;
+                                      font-size: 12px;
+                                      color: #444;
+                                      line-height: 18px;
+                                      font-weight: normal;
+                                    "
+                                    valign="top"
+                                  >
+                                    <span style="text-transform: capitalize"
+                                      >{{userName}}</span
+                                    ><br />
+                                    <a
+                                      href="mailto:{{userEmail}}"
+                                      target="_blank"
+                                      >{{userEmail}}</a
+                                    ><br />
+                                    {{userPhone}}
+                                  </td>
+                                  <td
+                                    style="
+                                      padding: 3px 9px 9px 9px;
+                                      border-top: 0;
+                                      border-left: 0;
+                                      font-family: Arial, Helvetica, sans-serif;
+                                      font-size: 12px;
+                                      color: #444;
+                                      line-height: 18px;
+                                      font-weight: normal;
+                                    "
+                                    valign="top"
+                                  >
+                                    <span style="text-transform: capitalize"
+                                      >{{userAddressName}}</span
+                                    ><br />
+                                    <a
+                                      href="mailto:{{userAddressEmail}}"
+                                      target="_blank"
+                                      >{{userAddressEmail}}</a
+                                    ><br />
+                                    {{userAddressDetail}}<br />
+                                    T: {{userAddressPhone}}
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td
+                                    colspan="2"
+                                    style="
+                                      padding: 7px 9px 0px 9px;
+                                      border-top: 0;
+                                      font-family: Arial, Helvetica, sans-serif;
+                                      font-size: 12px;
+                                      color: #444;
+                                    "
+                                    valign="top"
+                                  >
+                                    <p
+                                      style="
+                                        font-family: Arial, Helvetica,
+                                          sans-serif;
+                                        font-size: 12px;
+                                        color: #444;
+                                        line-height: 18px;
+                                        font-weight: normal;
+                                      "
+                                    >
+                                      <strong>Payment methods: </strong>
+                                      {{paymentMethod}}<br />
+                                    </p>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+
+                        <tr>
+                          <td>
+                            <h2
+                              style="
+                                text-align: left;
+                                margin: 10px 0;
+                                border-bottom: 1px solid #ddd;
+                                padding-bottom: 5px;
+                                font-size: 13px;
+                                color: #02acea;
+                              "
+                            >
+                              ORDER DETAILS
+                            </h2>
+
+                            <table
+                              border="0"
+                              cellpadding="0"
+                              cellspacing="0"
+                              style="background: #f5f5f5"
+                              width="100%"
+                            >
+                              <thead>
+                                <tr>
+                                  <th
+                                    align="left"
+                                    bgcolor="#02acea"
+                                    style="
+                                      padding: 6px 9px;
+                                      color: #fff;
+                                      font-family: Arial, Helvetica, sans-serif;
+                                      font-size: 12px;
+                                      line-height: 14px;
+                                    "
+                                  >
+                                    Product
+                                  </th>
+                                  <th
+                                    align="left"
+                                    bgcolor="#02acea"
+                                    style="
+                                      padding: 6px 9px;
+                                      color: #fff;
+                                      font-family: Arial, Helvetica, sans-serif;
+                                      font-size: 12px;
+                                      line-height: 14px;
+                                    "
+                                  >
+                                    Price &nbsp &nbsp &nbsp &nbsp
+                                  </th>
+                                  <th
+                                    align="left"
+                                    bgcolor="#02acea"
+                                    style="
+                                      padding: 6px 9px;
+                                      color: #fff;
+                                      font-family: Arial, Helvetica, sans-serif;
+                                      font-size: 12px;
+                                      line-height: 14px;
+                                    "
+                                  >
+                                    Quantity
+                                  </th>
+                                  <th
+                                    align="left"
+                                    bgcolor="#02acea"
+                                    style="
+                                      padding: 6px 9px;
+                                      color: #fff;
+                                      font-family: Arial, Helvetica, sans-serif;
+                                      font-size: 12px;
+                                      line-height: 14px;
+                                    "
+                                  >
+                                    <span style="opacity: 0">Giảm giá</span>
+                                  </th>
+                                  <th
+                                    align="right"
+                                    bgcolor="#02acea"
+                                    style="
+                                      padding: 6px 9px;
+                                      color: #fff;
+                                      font-family: Arial, Helvetica, sans-serif;
+                                      font-size: 12px;
+                                      line-height: 14px;
+                                    "
+                                  >
+                                    Total &nbsp &nbsp &nbsp &nbsp &nbsp
+                                  </th>
+                                </tr>
+                              </thead>
+                              <tbody
+                                bgcolor="#eee"
+                                style="
+                                  font-family: Arial, Helvetica, sans-serif;
+                                  font-size: 12px;
+                                  color: #444;
+                                  line-height: 18px;
+                                "
+                              >
+                                {{orderProducts}}
+                              </tbody>
+                              <tfoot
+                                style="
+                                  font-family: Arial, Helvetica, sans-serif;
+                                  font-size: 12px;
+                                  color: #444;
+                                  line-height: 18px;
+                                "
+                              >
+                                <tr>
+                                  <td
+                                    align="right"
+                                    colspan="4"
+                                    style="padding: 5px 9px"
+                                  >
+                                    Provisional price
+                                  </td>
+                                  <td align="right" style="padding: 5px 9px">
+                                    <span>{{totalPrice}}</span>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td
+                                    align="right"
+                                    colspan="4"
+                                    style="padding: 5px 9px"
+                                  >
+                                    Discount
+                                  </td>
+                                  <td align="right" style="padding: 5px 9px">
+                                    <span>{{discountPrice}}</span>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td
+                                    align="right"
+                                    colspan="4"
+                                    style="padding: 5px 9px"
+                                  >
+                                    Shipping fee
+                                  </td>
+                                  <td align="right" style="padding: 5px 9px">
+                                    <span>{{shippingPrice}}</span>
+                                  </td>
+                                </tr>
+                                <tr bgcolor="#eee">
+                                  <td
+                                    align="right"
+                                    colspan="4"
+                                    style="padding: 7px 9px"
+                                  >
+                                    <strong
+                                      ><big>Total order value</big>
+                                    </strong>
+                                  </td>
+                                  <td align="right" style="padding: 7px 9px">
+                                    <strong
+                                      ><big><span>{{total}}</span> </big>
+                                    </strong>
+                                  </td>
+                                </tr>
+                              </tfoot>
+                            </table>
+
+                            <div style="margin: auto">
+                              <a
+                                href="{{orderDetailUrl}}"
+                                style="
+                                  display: inline-block;
+                                  text-decoration: none;
+                                  background-color: #00b7f1 !important;
+                                  margin-right: 30px;
+                                  text-align: center;
+                                  border-radius: 3px;
+                                  color: #fff;
+                                  padding: 5px 10px;
+                                  font-size: 12px;
+                                  font-weight: bold;
+                                  margin-left: 40%;
+                                  margin-top: 5px;
+                                "
+                                target="_blank"
+                                >View Order details</a
+                              >
+                            </div>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
